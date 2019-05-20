@@ -1,0 +1,3 @@
+El estudiante con nombre Lina identificado con cédula Nro. undefined
+Se ha matriculado en el curso python
+Con una duración de 2 mesesy un costo de $undefined
